@@ -1,4 +1,12 @@
 
+@font-face {
+    font-family: Garamond;
+    src: url("garamonb.ttf");
+   
+    font-family: Georgia;
+    src: url("georgia.ttf");
+
+}
 
 .inline{
     text-align:center;
